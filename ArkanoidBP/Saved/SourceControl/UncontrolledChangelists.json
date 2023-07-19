@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/ArkanoidBP/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Levels/TempLevel.umap",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/Core/BP_Ball.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/Core/BP_CubeBase.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/MI_ColorBlue.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/MI_ColorGreen.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/Core/BP_CubeManager.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/Player/BP_Platform.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/Player/BP_PlayerController.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/BP_ArkanoidGameMode.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/Core/BP_BallManager.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/Core/BP_KillZone.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/Core/BP_CubeBonus.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/Core/MI_ColorWhite.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/Core/M_BallMaterial.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/Core/M_ColorBase.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/Core/MI_ColorBlue.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/Core/MI_ColorGreen.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/Core/MI_ColorRed.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Levels/Untitled2.umap",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Levels/Untitled1.umap",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Levels/Untitled.umap",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Levels/Untitled3.umap",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/Bonus/M_Bonus.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/Core/BP_Bonus.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Levels/SinglePlayerMap.umap",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Levels/CooperativeMap.umap",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Levels/MainMenu.umap",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/UI/BPW_MainMenu.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/UI/BPW_Menu.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/UI/BPW_Lose.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/UI/BPW_StartLevel.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/UI/BPW_Win.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/UI/BPW_Game.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/MainMenu/BP_GameModeMainMenu.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Blueprints/MainMenu/BP_MenuPlayerController.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/M_ColorBase.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/MI_ColorRed.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/MI_ColorWhite.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/M_BallMaterial.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/InputSettings/IC_PlayerInput.uasset",
+				"D:/UnrealProjects/ArkanoidBP/Content/Arkanoid/Materials/M_ColorWhite.uasset"
+			]
+		}
+	]
+}
